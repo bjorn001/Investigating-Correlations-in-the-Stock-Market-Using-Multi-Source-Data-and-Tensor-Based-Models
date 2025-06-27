@@ -11,8 +11,8 @@ This repository contains the code and experimental pipeline for the Master's the
 
 This project explores whether **inter-stock correlations**, combined with **financial news sentiment**, can enhance **stock price prediction** using **tensor-based machine learning models**. It compares multiple modeling approaches, including:
 
-- Linear Regression (Baseline & Extended)
 - Random Walk
+- Linear Regression (Baseline & Extended)
 - LSTM (Baseline & Extended)
 - Bayesian Tensor Regression (Baseline & Extended)
 
