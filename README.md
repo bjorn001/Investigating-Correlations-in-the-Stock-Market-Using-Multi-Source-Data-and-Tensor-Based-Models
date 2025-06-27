@@ -20,9 +20,9 @@ The extended models incorporate **rolling correlation features** across five maj
 
 ## Key Features
 
-- 📈 Multi-source input: price data, news sentiment (via BERT), and dynamic inter-stock correlations
-- 📊 Tensor decomposition via CP/PARAFAC for interpretable latent structure
-- 🤖 Benchmarks against traditional and deep learning models (e.g., LSTM)
-- 🛠️ Modular, reproducible code (Python, PyTorch, Scikit-learn, HuggingFace Transformers)
+-  Multi-source input: price data, news sentiment (via BERT), and dynamic inter-stock correlations
+-  Tensor decomposition via CP/PARAFAC for interpretable latent structure
+-  Benchmarks against traditional and deep learning models (e.g., LSTM)
+-  Modular, reproducible code (Python, PyTorch, Scikit-learn, HuggingFace Transformers)
 
 
